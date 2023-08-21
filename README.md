@@ -1,5 +1,5 @@
 # 💬 Ask me about working at [unigroup.com](https://unigroup.com)! 
-![UniGroup](https://www.unigroup.com/imgs/UniGroup_h_%C2%AE_4c.svg)
+![UniGroup](https://www.unigroup.com/imgs/UniGroup_h_%C2%AE_4c.svg =100x)
 
 ----
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcrosby&show_icons=true&hide=stars,contribs&count_private=true)
