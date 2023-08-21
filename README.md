@@ -1,5 +1,5 @@
 # 💬 Ask me about working at [unigroup.com](https://unigroup.com)! 
-<img src="https://www.unigroup.com/imgs/UniGroup_h_%C2%AE_4c.svg)" width="100">
+<img src="https://www.unigroup.com/imgs/UniGroup_h_%C2%AE_4c.svg" width="100">
 
 ### Hiring Data Engineers!
 
