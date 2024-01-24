@@ -1,8 +1,7 @@
 # 💬 Ask me about working at [unigroup.com](https://unigroup.com)! 
 <img src="https://www.unigroup.com/imgs/UniGroup_h_%C2%AE_4c.svg" width="250">
 
-### Hiring Data Engineers!
-
+- 📫 How to reach me: [https://www.linkedin.com/in/joshdcrosby/](https://www.linkedin.com/in/joshdcrosby/)
 
 ----
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcrosby&show_icons=true&hide=stars,contribs&count_private=true)
