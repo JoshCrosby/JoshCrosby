@@ -4,8 +4,8 @@
 - 📫 How to reach me: [https://www.linkedin.com/in/joshdcrosby/](https://www.linkedin.com/in/joshdcrosby/)
 
 ----
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcrosby&show_icons=true&hide=stars,contribs&count_private=true)
-
+<!-- ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcrosby&show_icons=true&hide=stars,contribs&count_private=true)
+-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshcrosby&layout=compact)
 
