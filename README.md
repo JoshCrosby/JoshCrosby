@@ -6,6 +6,8 @@
 <!-- ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcrosby&show_icons=true&hide=stars,contribs&count_private=true)
 -->
 
+⚠️ I work 100% on remote repositories, this  a private and personal repository reserved for .dotiles and and "Helpers".
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshcrosby&layout=compact)
 
 <!--
