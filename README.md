@@ -1,6 +1,10 @@
 # 💬 Ask me about working at [Innovative Solutions](https://innovativesol.com)! 
 
 - 📫 How to reach me: [https://www.linkedin.com/in/joshdcrosby/](https://www.linkedin.com/in/joshdcrosby/)
+  
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=joshdcrosby)
+
+[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://joshcrosby.substack.com/)
 
 ----
 <!-- ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcrosby&show_icons=true&hide=stars,contribs&count_private=true)
